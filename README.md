@@ -16,7 +16,7 @@
     <br> 
 </p>
 
-## 📝 Table of Contents
+## Table of Contents
 
 - [About](#about)
 - [Install](#installing)
@@ -48,12 +48,12 @@ Admin view : http://127.0.0.1:8000/admin
 ```
 
 ```
-account : asela@gmail.com
+account : daskon@gmail.com
 password : @1234
 ```
 `
 
-## ⛏️ Built Using <a name = "built_using"></a>
+## Built Using <a name = "built_using"></a>
 
 - [Laravel 8](https://www.laravel.com/) - Server Environment
 - [Livewire 2](https://laravel-livewire.com) - Fullstack
