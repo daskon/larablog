@@ -12,8 +12,7 @@
 
 </div>
 
----
-    <br> 
+--- 
 </p>
 
 ## Table of Contents
