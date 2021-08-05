@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="img/logo.svg" alt="Project logo"></a>
+ <img width=200px height=200px src="img/Netlinkler_Official_Logo.png" alt="Project logo"></a>
 </p>
 
 <h3 align="center">LaraBlog App</h3>
@@ -63,4 +63,4 @@ password : @1234
 
 ## Authors <a name = "authors"></a>
 
-- [@devhau](https://github.com/daskon)
+- [@daskon](https://github.com/daskon)
