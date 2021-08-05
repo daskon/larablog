@@ -43,7 +43,7 @@ php artisan serv
 ```
 
 ```
-Admin view : http://127.0.0.1:8000/admin
+Admin view : http://127.0.0.1:8000/login
 ```
 
 ```
