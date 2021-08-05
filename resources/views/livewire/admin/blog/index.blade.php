@@ -6,8 +6,13 @@
             <i class="align-middle"
             data-feather="plus-square"></i> <span class="align-middle">{{__('action.add')}}</span></button>
     </div>
-    <div style="text-align:right;">
-        <input type="text"  class="form-control" placeholder="Search" wire:model="search" />
+    <div style="padding: 5px">
+        <input type="text"  class="form-control" placeholder="Click Here To Search Blog Post By Tag Name" wire:model="search" 
+           style="float: right;
+           padding: 6px;
+           border: none;
+           font-size: 17px; 
+           width:30%"/>
     </div>
     <div class="card-body">
         <livewire:admin.blog.edit />

@@ -35,7 +35,7 @@ class DatabaseSeeder extends Seeder
 
         // Users
         $user = User::firstOrCreate(
-            ['email' => 'aseladaskon@gmail.com'],
+            ['email' => 'daskon@gmail.com'],
             [
                 'name' => 'Asela',
                 'password' => Hash::make('@1234'),

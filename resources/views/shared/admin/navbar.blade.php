@@ -16,7 +16,7 @@
                 <div class="dropdown-menu dropdown-menu-lg dropdown-menu-end py-0"
                     aria-labelledby="alertsDropdown">
                     <div class="dropdown-menu-header">
-                        1 New Notifications
+                        Alerts
                     </div>
                     <div class="list-group">
                         <a href="#" class="list-group-item">
@@ -25,10 +25,8 @@
                                     <i class="text-danger" data-feather="alert-circle"></i>
                                 </div>
                                 <div class="col-10">
-                                    <div class="text-dark">Update completed</div>
-                                    <div class="text-muted small mt-1">Restart server 12 to complete the
-                                        update.</div>
-                                    <div class="text-muted small mt-1">30m ago</div>
+                                    <div class="text-dark">New Post</div>
+                                    <div class="text-muted small mt-1">New Blog Post Added</div>
                                 </div>
                             </div>
                         </a>
@@ -46,7 +44,7 @@
                 @if(Auth::user())
                 <a class="nav-link dropdown-toggle d-none d-sm-inline-block" href="#"
                     data-bs-toggle="dropdown">
-                    <img src="/img/avatars/avatar.jpg" class="avatar img-fluid rounded me-1"
+                    <img src="/img/avatars/admin_avatar.png" class="avatar img-fluid rounded me-1"
                         alt="@if(Auth::user()) {{Auth::user()->name}} @endif" /> 
                         <span class="text-dark">
                             {{Auth::user()->name}}
